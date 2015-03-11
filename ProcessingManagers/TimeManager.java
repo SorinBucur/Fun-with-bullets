@@ -5,9 +5,6 @@ package ProcessingManagers;
  */
 public class TimeManager {
 	private int h,m,s;
-
-	// TODO => implement the body of the class (set class fields, make ways 
-	// 			for other classes to work with a TimeManager object)
 	
 	public int getHour() {
 		return h;
