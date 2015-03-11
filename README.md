@@ -8,3 +8,6 @@ arata aceasta suprafata in urma impactului cu multiplele proiectile lansate.
 Tipul proiectilului se schimba in functie de timp si distanta.
 In functie de proiectil, impactul cu ecranul va fi o forma geometrica diferita, iar in functie de distanta si timp
 aceasta va fi alterata.
+
+S-a urmarit utilizarea corecta a mostenirii si agregarii de clase, organizarea eficienta a claselor in pachete, 
+incapsularea datelor si utilizarea modificatorilor de acces si utilizarea claselor abstracte si/sau a interfetelor.
