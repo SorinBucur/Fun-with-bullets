@@ -10,4 +10,4 @@ In functie de proiectil, impactul cu ecranul va fi o forma geometrica diferita, 
 aceasta va fi alterata.
 
 S-a urmarit utilizarea corecta a mostenirii si agregarii de clase, organizarea eficienta a claselor in pachete, 
-incapsularea datelor si utilizarea modificatorilor de acces si utilizarea claselor abstracte si/sau a interfetelor.
+incapsularea datelor si utilizarea claselor abstracte.
